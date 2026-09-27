@@ -32,6 +32,6 @@ A secondhand marketplace where buyers can browse and place demo orders while sel
 
 ---
 
-**Tools I use** React · TypeScript · Java · NestJS · Spring Boot · PostgreSQL · Playwright
+**Tools I use** Next · TypeScript · Java · NestJS · Spring Boot · PostgreSQL · Playwright
 
 Both projects are interactive demos with fictional data and simulated transactions.
