@@ -1,10 +1,10 @@
 # Sam Abou Zeid
 
-**Full-stack developer · Co-founder at [abzd.](https://abzd.vercel.app/)**
+**Full-stack developer · Co-founder**
 
-I build web products from the interface through the API and data layer. I care about clear flows, secure sessions, careful transaction handling, and tests that cover real use.
 
-[Website](https://abzd.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/samabzd/)
+
+[Website](https://samabouzeid.com/) · [LinkedIn](https://www.linkedin.com/in/samabzd/)
 
 ---
 
