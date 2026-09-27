@@ -1,22 +1,37 @@
 # Sam Abou Zeid
 
-**Full-stack developer and co-founder at [abzd.](https://abzd.vercel.app/)**
+**Full-stack developer · Co-founder at [abzd.](https://abzd.vercel.app/)**
 
-I build web products from the interface through the API and data layer. My recent work pairs considered UX with the less visible details that make a product dependable: secure sessions, careful transaction handling, and useful tests.
+I build web products from the interface through the API and data layer. I care about clear flows, secure sessions, careful transaction handling, and tests that cover real use.
 
 [Website](https://abzd.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/samabzd/)
 
-## Selected work
+---
 
-| [Flux](https://github.com/SamABZD/flux) | [Retro](https://github.com/SamABZD/retro) |
-| :--- | :--- |
-| [![Flux multi-currency dashboard](https://raw.githubusercontent.com/SamABZD/flux/main/docs/assets/flux-home.png)](https://flux-api-production-be4f.up.railway.app/login) | [![Retro secondhand marketplace](https://raw.githubusercontent.com/SamABZD/retro/main/docs/screenshots/marketplace.png)](https://retro-production-d07b.up.railway.app/) |
-| A multi-currency banking demo with FX payments, cards, analytics, and a balanced ledger. | A secondhand marketplace with buyer and seller journeys, listings, checkout, and order management. |
-| **React · TypeScript · NestJS · PostgreSQL** | **React · TypeScript · Spring Boot · H2** |
-| [Live demo](https://flux-api-production-be4f.up.railway.app/login) · [Source](https://github.com/SamABZD/flux) | [Live demo](https://retro-production-d07b.up.railway.app/) · [Source](https://github.com/SamABZD/retro) |
+### Selected work
+
+#### 01 / Flux
+
+A multi-currency banking demo with quoted payments, card controls, analytics, and a balanced ledger.
+
+**React · TypeScript · NestJS · PostgreSQL**
+
+[Explore the demo](https://flux-api-production-be4f.up.railway.app/login) · [View the code](https://github.com/SamABZD/flux)
+
+<img src="https://raw.githubusercontent.com/SamABZD/flux/main/docs/assets/flux-home.png" alt="Flux dashboard showing accounts and recent activity" width="760">
+
+#### 02 / Retro
+
+A secondhand marketplace where buyers can browse and place demo orders while sellers manage listings, stock, and fulfillment.
+
+**React · TypeScript · Spring Boot · H2**
+
+[Explore the demo](https://retro-production-d07b.up.railway.app/) · [View the code](https://github.com/SamABZD/retro)
+
+<img src="https://raw.githubusercontent.com/SamABZD/retro/main/docs/screenshots/marketplace.png" alt="Retro marketplace with sample listings" width="760">
+
+---
+
+**Tools I use** React · TypeScript · Java · NestJS · Spring Boot · PostgreSQL · Playwright
 
 Both projects are interactive demos with fictional data and simulated transactions.
-
-## Tools I use
-
-React, TypeScript, Java, NestJS, Spring Boot, PostgreSQL, and Playwright.
