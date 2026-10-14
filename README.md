@@ -1,6 +1,6 @@
 # Sam Abou Zeid
 
-**Full-stack developer · Co-founder**
+**Software Developer · Co-founder**
 
 
 
