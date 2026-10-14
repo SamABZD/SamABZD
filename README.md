@@ -30,8 +30,18 @@ A secondhand marketplace where buyers can browse and place demo orders while sel
 
 <img src="https://raw.githubusercontent.com/SamABZD/retro/main/docs/screenshots/marketplace.png" alt="Retro marketplace with sample listings" width="760">
 
+#### 03 / PortWatch
+
+A maritime data engineering demo that turns vessel reports into traceable observations, historical replay, and inspectable port analytics.
+
+**Python · PostgreSQL/PostGIS · Prefect · dbt · FastAPI · Next.js**
+
+[Explore the demo](https://portwatch-iota.vercel.app/) · [Inspect the pipelines](https://portwatch-iota.vercel.app/pipeline) · [View the code](https://github.com/SamABZD/portwatch)
+
+<img src="https://raw.githubusercontent.com/SamABZD/portwatch/main/docs/assets/pipeline.png" alt="PortWatch pipeline from source ingestion through validation, analytics, and the vessel map" width="760">
+
 ---
 
-**Tools I use** Next · TypeScript · Java · NestJS · Spring Boot · PostgreSQL · Playwright
+**Tools I use** Next · TypeScript · Java · NestJS · Spring Boot · PostgreSQL · Playwright · Python · PostGIS · Prefect · dbt · FastAPI
 
 Flux and Retro are interactive demos with fictional data and simulated transactions. PortWatch uses genuine source observations with incomplete coverage and experimental analytical inferences.
